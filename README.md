@@ -1,6 +1,6 @@
 # cv-sodukuDetector
 OpenCV-based Sudoku Detector implemented on Python. The script recognizes the image of a Sudoku, extracts the numbers and "OCRs" them into strings.
-Character recognition is implemented by a simple SVM. The input image is "augmented" with the new numbers.
+Character recognition is implemented by a simple SVM. The input image is "augmented" with the recognized numbers.
 
 Software provided "as-is". Working on proper documentation.
 
